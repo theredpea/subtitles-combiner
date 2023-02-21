@@ -1,11 +1,11 @@
-Pinyin -- Chinese Characters
+
 ============================
-###subtitles combiner
+### subtitles combiner
 
 
-####script to combine Pinyin and character subtitles
+#### script to combine Pinyin and character subtitles
 
-#####Download and run as example:
+##### Download and run as example:
 
 
 ```
